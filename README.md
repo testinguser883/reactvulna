@@ -1,6 +1,7 @@
 # Reactvulna
 
 ## Table of Contents
+
 1. [Introduction](#Introduction)
 2. [Building, running the application](#Build)
 3. [Configuring a backend](#Backend)
